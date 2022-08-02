@@ -1,6 +1,6 @@
 ### Hi there, I'm Vera 👋
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vh71886&count_private=true&show_icons=true&theme=tokyonight&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vera-ho&count_private=true&show_icons=true&theme=tokyonight&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **vh71886/vh71886** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
